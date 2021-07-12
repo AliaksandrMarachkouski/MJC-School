@@ -2,9 +2,9 @@
 
 ### Git
 To cover this topic please refer to the Git task of MJC-School first module (master branch)
-```
+
 [module #1. GIT & Build Tools](https://github.com/mjc-school/MJC-School/tree/master/stage%20%233/java/module%20%231.%20GIT%20%26%20Build%20Tools)
-```
+
 Links: 
 - [Understanding Git — Data Model](https://medium.com/hackernoon/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
 - [Understanding Git — Branching](https://medium.com/hackernoon/understanding-git-branching-2662f5882f9)
