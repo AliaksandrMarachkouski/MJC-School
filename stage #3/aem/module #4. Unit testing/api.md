@@ -1,13 +1,20 @@
 ## API
 
-The most important package in JUnit is junit.framework, which contains all the core classes. Some of the important classes are as follows −
+The most important package in JUnit is junit.framework, which contains all the core classes. 
+Some of the important classes are as follows −
+
 
 Assert	- set of assert methods.
+
 TestCase	- defines the fixture to run multiple tests.
+
 TestResult	- collects the results of executing a test case.
+
 TestSuite	- is a composite of tests.
 
+
 ### Assert Class
+
 
 Following is the declaration for org.junit.Assert class −
 
