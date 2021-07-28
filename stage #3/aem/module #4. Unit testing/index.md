@@ -13,5 +13,8 @@
 [Code Coverage](https://github.com/AliaksandrMarachkouski/MJC-School/blob/patch-1/stage%20%233/aem/module%20%232.%20Unit%20testing/code_coverage.md)
 
 
+## Timeline
+
+The recommended timeline for the whole module is 1 day.
 
 
