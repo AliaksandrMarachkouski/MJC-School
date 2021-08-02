@@ -15,6 +15,6 @@
 
 ## Timeline
 
-The recommended timeline for the whole module is 1 day.
+The recommended timeline for the whole module is 3 days.
 
 
