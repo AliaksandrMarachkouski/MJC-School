@@ -1,5 +1,8 @@
 ## Git & Build tools
 
+### Timeline
+The recommended timeline for the whole module is 1 week.
+
 ### Git
 To cover this topic please refer to the Git task of MJC-School first module (master branch)
 
